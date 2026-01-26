@@ -8,8 +8,9 @@ Moj lični portfolio izrađen u **HTML** i **CSS**, prikazuje moju edukaciju, vj
 - **About me:** kratak opis obrazovanja, iskustva i interesa u IT-u  
 - **Skills:** frontend i programske tehnologije koje poznajem
 - **Portfolio:** prikaz dva glavna projekata sa linkovima na GitHub repozitorije  
-  - **Webshop Database:** SQL Server baza podataka kreirana tokom studentske prakse u BH Telecomu  
-  - **Web application:** full-stack web aplikacija s frontendom u HTML/CSS i backendom u C# povezanim na SQL Server bazu podataka  
+  - **Frontend project:** Frontend web projekat korištenjem HTML/CSS i osnova JS
+  - **Web application:** full-stack web aplikacija s frontendom u HTML/CSS i backendom u C# povezanim na SQL Server bazu podataka
+  - **Webshop Database:** SQL Server baza podataka kreirana tokom studentske prakse u BH Telecomu    
 - **Contacts:** e-mail, telefon i LinkedIn profil
 
 ## Tehnologije
